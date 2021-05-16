@@ -1223,7 +1223,7 @@ border-radius:20px ;
 
 #footer .footer-top {
   padding: 60px 0 30px 0;
-  background: #717CFF;
+  background: #fff;
 }
 
 #footer .footer-top .footer-contact {
@@ -1317,8 +1317,9 @@ border-radius:20px ;
 
 #footer .copyright {
   text-align: center;
+  font-size:18px;
   float: left;
-  color: #47536e;
+  color: #fff;
 }
 
 #footer .credits {
